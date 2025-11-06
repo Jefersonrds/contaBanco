@@ -7,7 +7,7 @@ public class Main {
 
         int finalizarOperacao;
 
-        contaBanco contaJubileu = new contaBanco();
+        ContaBanco contaJubileu = new ContaBanco();
 
         Scanner sc = new Scanner(System.in);
 

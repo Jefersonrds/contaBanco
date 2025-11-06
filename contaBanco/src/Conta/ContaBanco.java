@@ -1,6 +1,6 @@
 package Conta;
 
-public class contaBanco {
+public class ContaBanco {
 
     //--------- Atributos
     private int numConta;
@@ -50,7 +50,7 @@ public class contaBanco {
         this.status = status;
     }
 
-    public contaBanco(){
+    public ContaBanco(){
         this.saldo = 0;
         this.status = false;
 
