@@ -30,7 +30,7 @@ Criacao do sistema
 ContaBanco
 
 Criar getters e setters a todos os atributos
-Criar construtor para que: Ao iniciar o metodo abrirConta() seja falso, ou seja, conta esta fechada e o atributo saldo seja 0(zero), conta sem saldo. 
+Criar construtor para que: Ao iniciar o status da conta deve estar fechada, ou seja falso, ou seja, conta esta fechada e o atributo saldo seja 0(zero), conta sem saldo. 
 
 ContaBanco
 + numConta
