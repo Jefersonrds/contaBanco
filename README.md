@@ -86,5 +86,5 @@ creusa.sacar(100);
 creusa.pagarMensal();
 ```
 ### Resultado esperado:
-Jubileu: 150 dinheiros
+Jubileu: 150 dinheiros \
 Creusa: 400 dinheiros
