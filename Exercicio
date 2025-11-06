@@ -1,0 +1,45 @@
+Projeto conta de banco
+
+Desafio
+
+Criar conta corrente e conta poupanca
+
+Jubileu tem 300 e quer colocar na poupanca
+
+e Creusa tem 500 e quer colcoar na conta corrente.
+
+Creusa saca 100 dinheiros e sobra 400 dinheiros
+
+Jubileu saca 150 dinheiros e sobra 150.
+
+Criterios e informacoes:
+Se abrir conta corrente, ganha 50 dinheiros
+
+Se abrir conta poupanca, ganha 150 dinheiros
+
+Para fechar conta, nao pode ter saldo positivo e nem negativo!
+
+Para depositar a conta tem que estar aberta
+
+Para sacar a conta deve estar aberta e haver saldo
+
+Pagar mensalidade vai ser cobrado cada vez que chamar o metodo. A cada chamada vai ser descontado cc=12 e cp=20 dinheiros
+
+Criacao do sistema
+
+ContaBanco
+
+Criar getters e setters a todos os atributos
+Criar construtor para que: Ao iniciar o metodo abrirConta() seja falso, ou seja, conta esta fechada e o atributo saldo seja 0(zero), conta sem saldo. 
+
+ContaBanco
++ numConta
+# tipo
+- dono
+- saldo
+- status
++ abrirConta()
++ fecharConta()
++ depositar()
++ sacar()
++ pagarMensal()
